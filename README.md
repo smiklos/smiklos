@@ -1,6 +1,6 @@
 - 🔭 I’m currently working at The Org in Copenhagen
 - 💬 Ask me about Scala and functional programming.
-- 😄 Pronouns: He/him
+- 🕵️‍♂️ Pronouns: He/him
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
