@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on The Org
-- 💬 Ask me about Scala and functional programming
+- 🔭 I’m currently working at The Org in Copenhagen
+- 💬 Ask me about Scala and functional programming.
 - 😄 Pronouns: He/him
 
 
