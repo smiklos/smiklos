@@ -1,5 +1,6 @@
-- 🔭 I’m currently working at The Org in Copenhagen
+- 🔭 I'm looking for new roles 
 - 💬 Ask me about Scala and functional programming.
+- 🤖 Getting better at Rust is what I do lately.  
 - 🕵️‍♂️ Pronouns: He/him
 
 
