@@ -1,6 +1,6 @@
 - 🔭 I'm looking for new roles 
 - 💬 Ask me about Scala and functional programming.
-- 🤖 Getting better at Rust is what I do lately.  
+- 🤖 Getting better at Rust is where I put my focus.  
 - 🕵️‍♂️ Pronouns: He/him
 
 
